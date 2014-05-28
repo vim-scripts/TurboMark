@@ -1,3 +1,10 @@
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=4668
 
-This plugin intends to replace the functionality of the m and ' keys that Vim provides in normal mode. By using this plugin, you don't need to memorize a register for each line you mark, you just mark it with m. Marked lines go into a list which is displayed by using the ' mapping. Upon pressing ', the quickfix window opens, populated with the already marked lines and the editor is automatically entered into search mode. This way, you can immediately type part of the line you've previously marked, hit double-enter (the first is to exit search-mode) and you're exactly where you want to be.
+This plugin intends to replace the functionality of the m and ' keys that Vim
+provides in normal mode. By using this plugin, you don't need to memorize a
+register for each line you mark, you just mark it with m. Marked lines go into
+a list which is displayed by using the ' mapping. Upon pressing ', the quickfix
+window opens, populated with the already marked lines and the editor is
+automatically entered into search mode. This way, you can immediately type part
+of the line you've previously marked, hit double-enter (the first is to exit
+search-mode) and you're exactly where you want to be.
